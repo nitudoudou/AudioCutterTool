@@ -1,3 +1,5 @@
 pydub>=0.25.1
-ffmpeg-python>=0.2.0
 flask>=3.0.0
+pywebview[edge]>=4.0
+static-ffmpeg>=2.0
+pyinstaller>=5.0
